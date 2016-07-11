@@ -1,1 +1,3 @@
-# CS5070
+##Class Project
+
+Java timing experiment. 
